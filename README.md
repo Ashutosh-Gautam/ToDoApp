@@ -49,9 +49,9 @@ Follow these steps to get a Working Project!
 Follow these steps to test the app!
 ```
 1. Launch the app
-2. Click on insert data button to bulk insert the data [Refer: [Screenshot_20240825_140931.png]]
-3. Use a long press on the item to trigger the delete alert and follow the instructions [Refer: [Screenshot_20240825_140830.png]]
-4. Use add fab to trigger the add to-do item alert and follow the instructions [Refer: [Screenshot_20240825_140847.png]]
-5. To run the test case please go to [TodoApp/app/src/androidTest/java/com/example/todoapp/DatabaseHelperTest.kt]
-6. DatabaseHelperTest covers insertion, deletion and retrieval cases
+2. Click on the insert data button to bulk insert the data.
+3. Press long on the item to trigger the delete alert and follow the instructions.
+4. Use add fab to trigger the add to-do item alert and follow the instructions.
+5. To run the test case please go to [androidTest/java/com/example/todoapp/DatabaseHelperTest.kt]
+6. DatabaseHelperTest covers insertion, deletion and retrieval case.
 ```
